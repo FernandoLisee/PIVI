@@ -1,0 +1,11 @@
+export '../pages/Register_screen_1/Register_screen_1.dart';
+export '../pages/List_screen_2/List_screen_2.dart';
+export '../pages/SendDocument_screen_3/SendDocument_screen_3.dart';
+export '../pages/Login_screen_4/Login_screen_4.dart';
+export 'components/button/rectangle_button_24.dart';
+export 'components/button/rectangle_button_27.dart';
+export 'components/button/rectangle_button_37.dart';
+export 'components/button/rectangle_button_38.dart';
+export 'components/button/rectangle_button_88.dart';
+export 'components/button/rectangle_button_95.dart';
+export 'pallete.dart';
